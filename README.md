@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript and SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SilviuBadic](https://github.com/SilviuBadic](https://github.com/SilviuBadic?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/SilviuBadic?tab=repositories
 
 - 📫 How to reach me **silviu_badicel@yahoo.com**
 
