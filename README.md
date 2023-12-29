@@ -30,6 +30,4 @@
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviubadic&show_icons=true&locale=en" alt="silviubadic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silviubadic&" alt="silviubadic" /></p>
