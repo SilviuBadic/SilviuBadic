@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silviubadic&label=Profile%20views&color=0e75b6&style=flat" alt="silviubadic" /> </p>
 
-- 🌱 I’m currently learning **Python, Javascript and SQL**
+- 🌱 I’m currently learning **JavaScript, React, Python**
 
 - 👨‍💻 All of my projects are available at https://github.com/SilviuBadic?tab=repositories
 
 - 📫 How to reach me **silviu_badicel@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/silviu-nicolae-badicel-8ab9b01b3/](https://www.linkedin.com/in/silviu-nicolae-badicel-8ab9b01b3/)
+- 📄 Know about my experiences https://www.linkedin.com/in/silviu-nicolae-badicel-8ab9b01b3/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +26,6 @@
 <p>My Favorite Projects</p>
 <p>1 --> <a href="https://github.com/SilviuBadic/tic-tac-toe-javascript" target="_blank">Tic-Tac-Toe-JavaScript</a></p>
 <p>2 --> <a href="https://github.com/SilviuBadic/rock-paper-scissors-javascript" target="_blank">Rock-Paper-Scissors-JavaScript</a></p>
-
+<br>
+<p>My Portfolio: <a href="https://github.com/SilviuBadic">CLICK HERE</a></p>
 
