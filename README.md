@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Silviu.</h1>
 <h3 align="center">I live in Bucharest. I love spending my time learning how to code and cook. Or maybe to travel somewhere far away, read a book or just lay in bed watching a movie.</h3> 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1707955200&v=beta&t=scCdYzSF_2EteQbygyzYTdKKr7p3MAbls3VCXnctr0s">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silviubadic&label=Profile%20views&color=0e75b6&style=flat" alt="silviubadic" /> </p>
