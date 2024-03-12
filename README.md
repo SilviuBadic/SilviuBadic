@@ -27,5 +27,5 @@
 <p>1 --> <a href="https://github.com/SilviuBadic/tic-tac-toe-javascript" target="_blank">Tic-Tac-Toe-JavaScript</a></p>
 <p>2 --> <a href="https://github.com/SilviuBadic/rock-paper-scissors-javascript" target="_blank">Rock-Paper-Scissors-JavaScript</a></p>
 <br>
-<p>My Portfolio: <a href="https://github.com/SilviuBadic">CLICK HERE</a></p>
+<p>My Portfolio: <a href="https://silviubadic.github.io/portfolio/html/index.html">CLICK HERE</a></p>
 
