@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silviubadic&label=Profile%20views&color=0e75b6&style=flat" alt="silviubadic" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Python**
+- 🌱 I’m currently learning **JavaScript, React, Node.js and Python**
 
 - 👨‍💻 All of my projects are available at https://github.com/SilviuBadic?tab=repositories
 
-- 📫 How to reach me **silviu_badicel@yahoo.com**
+- 📫 How to reach me **silviu.badicel97@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/silviu-nicolae-badicel-8ab9b01b3/
 
