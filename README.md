@@ -25,9 +25,9 @@
 &nbsp &nbsp
 <p>My Favorite Projects</p>
 <p>1 --> <a href="https://github.com/SilviuBadic/Javascript-Amazon-Project" target="_blank">Amazon Project</a></p>
-<p>2 --> <a href="https://github.com/SilviuBadic/tic-tac-toe-javascript" target="_blank">Tic-Tac-Toe-JavaScript-V1</a></p>
-<p>3 --> <a href="https://github.com/SilviuBadic/tic-tac-toe-javascript" target="_blank">Tic-Tac-Toe-JavaScript-V2</a></p>
-<p>4 --> <a href="https://github.com/SilviuBadic/rock-paper-scissors-javascript" target="_blank">Rock-Paper-Scissors-JavaScript</a></p>
+<p>2 --> <a href="https://github.com/SilviuBadic/tic-tac-toe-javascript" target="_blank">Tic-Tac-Toe-JavaScript</a></p>
+<p>3 --> <a href="https://github.com/SilviuBadic/rock-paper-scissors-javascript" target="_blank">Rock-Paper-Scissors-JavaScript V1</a></p>
+<p>4 --> <a href="https://github.com/SilviuBadic/Rock-Paper-Scissors-V2" target="_blank">Rock-Paper-Scissors-JavaScript V2</a></p>
 
 
 <br>
