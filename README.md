@@ -31,5 +31,5 @@
 
 
 <br>
-<p>My Portfolio: <a href="https://silviubadic.github.io/portfolio/html/index.html">CLICK HERE</a></p>
+<p>My Portfolio: <a href="https://silviubadic.github.io/My_Portfolio/html/index.html">CLICK HERE</a></p>
 
